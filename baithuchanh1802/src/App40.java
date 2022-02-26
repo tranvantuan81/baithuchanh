@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class tuanle {
+public class App40 {
     public static void main(String agre[]) {
         Scanner scanner = new Scanner (System.in);
         int ngay = scanner.nextInt();
