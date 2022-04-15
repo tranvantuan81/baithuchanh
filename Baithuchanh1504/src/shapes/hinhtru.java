@@ -1,7 +1,7 @@
 package shapes;
 import java.util.Scanner;
 public class hinhtru extends hinhtron {
-    public float chieu cao;
+    public float chieucao;
     public hinhtru(){
         ten = "hinh tru";
     }

@@ -9,7 +9,7 @@ public class hinhtron extends hinhhoc {
     public void nhapbankinh(){
         System.out.println("Ban kinh = ");
         Scanner scanner = new Scanner(System.in);
-        bankinh=scanner.next.Float();
+        bankinh= scanner.nextFloat();
     }
     public void tinhchuvi(){
         chuvi =2 * PI * bankinh;
