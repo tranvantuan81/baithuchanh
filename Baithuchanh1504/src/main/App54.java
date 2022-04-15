@@ -2,6 +2,7 @@ package main;
 import shapes.hinhchunhat;
 import shapes.hinhtron;
 import shapes.hinhtru;
+import shapes.hinhvuong;
 
 public class App54 {
    public static void main(String[] args) {
@@ -36,6 +37,6 @@ public class App54 {
        hinhvuong.tinhdientich();
        hinhvuong.inchuvi();
        hinhvuong.indientich();
-       
+
    }
 }
