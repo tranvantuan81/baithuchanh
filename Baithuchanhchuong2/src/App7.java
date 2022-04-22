@@ -1,4 +1,3 @@
-package Baithuchanhchuong2.src;
 import java.util.Scanner;
 public class App7 {
   public static void main (String[] args) {
