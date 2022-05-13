@@ -24,5 +24,6 @@ public class App56 {
         else {
             System.out.println("Xoa khong thanh cong ");
         }
+        sc.close();
     }
 }

@@ -26,7 +26,7 @@ public class App55 {
             System.out.println(hashSetInteger);  
         }
         else {
-            System.out.println("Phan tu " + number + "da ton tai ");
+            System.out.println("Phan tu " + number + " da ton tai ");
         }
        }
     sc.close();
